@@ -1,0 +1,8 @@
+{
+  "name": "Grey Soul Coffee Roasters Bandra",
+  "description": "Direct-Trade Single-Origin Indian Beans & Artisanal Micro-Roasting in Bandra West, Mumbai. Crafted by JRK Agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
